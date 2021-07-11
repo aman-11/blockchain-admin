@@ -1,0 +1,27 @@
+.ctr{
+    margin-top:28px;
+}
+
+.track{
+    margin-top:4%;
+}
+
+.pay_title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
+  
+  .pay_title > .pay__title_left {
+    padding-right: 130px;
+  }
+  
+  .pay_title > .pay__title_right {
+    padding-left: 130px;
+  }
+  
+  .each__pay{
+      padding:16px;
+      border-top: 8px solid #FAFAFA;
+  }
